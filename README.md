@@ -3,7 +3,7 @@
 > - This is mainly for my own personal use :)
 > - Used LLM (claude) to help with type generation and clean-up.
 
-Simple script to your chess.com rated stats track your progress daily. 
+Simple script to track your chess.com progress over time. 
 
 Can aggregate results `daily` or `weekly`
 
@@ -21,3 +21,4 @@ uv run main.py -u hikaru -m "2025/11-12" -a weekly
 uv run main.py -u hikaru -m "2025/11-12" -a weekly
 ```
 <img width="960" height="605" alt="Screenshot 2025-12-11 at 10 32 10 AM" src="https://github.com/user-attachments/assets/c64d4094-8110-438f-aa9d-199a34291621" />
+
