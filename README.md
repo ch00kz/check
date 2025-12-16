@@ -18,7 +18,8 @@ uv run main.py -u hikaru -m "2025/11-12" -a weekly
 
 ### Aggregate Daily for the December 2025
 ```sh
-uv run main.py -u hikaru -m "2025/11-12" -a weekly
+uv run main.py -u hikaru -m "2025/11-12" -a daily
 ```
 <img width="960" height="605" alt="Screenshot 2025-12-11 at 10 32 10 AM" src="https://github.com/user-attachments/assets/c64d4094-8110-438f-aa9d-199a34291621" />
+
 
